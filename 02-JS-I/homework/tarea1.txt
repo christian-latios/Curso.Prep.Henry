@@ -1,0 +1,26 @@
+visual core
+node
+gidhub
+
+ 1) variable:
+ variable es una palabra que representa a aquello que varía o que está sujeto a algún tipo de cambio. Se trata de algo que se caracteriza por ser inestable, inconstante y mudable.
+
+
+2) strings: 
+En programación, una cadena de caracteres, palabras, ristra de caracteres o frase (string, en inglés) es una secuencia ordenada (de longitud arbitraria, aunque finita) de elementos que pertenecen a un cierto lenguaje formal o alfabeto análogas a una fórmula o a una oración.
+
+3) Funcion:
+Una función no es más que un conjunto de líneas de código que hacen una tarea en concreto, y esta función puede volver a un valor o no.
+
+3-1 argumentos:
+Un argumento representa el valor que se pasa a un parámetro de procedimiento cuando se llama al procedimiento. El código de llamada proporciona los argumentos cuando llama al procedimiento.
+
+3-2 return:
+La sentencia return se emplea para salir de la secuencia de ejecución de las sentencias de un método y, opcionalmente, devolver un valor. Tras la salida del método se vuelve a la secuencia de ejecución del programa al lugar de llamada de dicho método.
+
+
+4) declaracion IF:
+Ejecuta una sentencia si una condición específicada es evaluada como verdadera. Si la condición es evaluada como falsa, otra sentencia puede ser ejecutada.
+
+
+5) valores booleanos (true or false ): Un operador de tipo booleano es un dato que solo puede tener dos valores ya que representa valores de lógica binaria, y por lo general se pueden mostrar con un dato que sea Verdadero o Falso.
