@@ -1,0 +1,13 @@
+concepto for:
+un ciclo for es una estructura iterativa para ejecutar un mismo segmento de código una cantidad de veces deseada; conociendo previamente un valor de inicio, un tamaño de paso y un valor final para el ciclo.
+
+
+concepto &&
+El && es el operador lógico Y que trabaja con operandos booleanos. Como sugiere el nombre, los operadores lógicos pueden realizar la operación lógica y combinar dos o más condiciones. Estos se pueden utilizar con cualquier forma de tipo de datos.
+
+concepto || O logico:
+devuelve verdadero si al menos una condición es verdadera.
+
+
+Concepto operador Not:
+El operador not devuelve el valor opuesto la valor booleano.
