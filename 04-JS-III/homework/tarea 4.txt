@@ -1,0 +1,2 @@
+Array:
+El objeto Array de JavaScript es un objeto global que es usado en la construcción de arrays, que son objetos tipo lista de alto nivel.
