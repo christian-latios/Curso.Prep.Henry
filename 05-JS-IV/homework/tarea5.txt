@@ -1,0 +1,14 @@
+objetos en javascript:
+
+Un objeto es una colección de datos relacionados y/o funcionalidad (que generalmente consta de algunas variables y funciones, que se denominan propiedades y métodos cuando están dentro de objetos).
+
+propiedades de un objeto:
+
+Las propiedades de un objeto pueden verse como variables ligadas a ese objeto. Por lo tanto una propiedad de un objeto puede contener un dato de cualquier tipo básico, arrays, otros objetos, o funciones (en cuyo caso reciben el nombre de métodos del objeto).
+
+metodos java:
+
+Los métodos sirven para hacer acciones como una ventana emergente, modificar las propiedades de un objeto, añadir elementos a una lista, quitarlos, transformar un string en un número entero o decima
+
+bucle for in:
+Un bucle for...in solo itera sobre propiedades enumerables que no son símbolo. Los objetos creados a partir de constructores integrados como Array y Object han heredado propiedades no enumerables de Object.prototype y String.prototype, como el método indexOf() de String o el método toString() de Object. El bucle iterará sobre todas las propiedades enumerables del objeto en sí y aquellas que el objeto hereda de su cadena de prototipos (las propiedades de los prototipos más cercanos tienen prioridad sobre las de los prototipos más alejados del objeto en su cadena de prototipos).

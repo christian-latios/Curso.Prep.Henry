@@ -178,7 +178,7 @@ function todosIguales(arreglo) {
   //retornar true, caso contrario retornar false.
   //Escribe tu código aquí  
   for (var i=0; i< arreglo.length - 1; i++){
-    if arreglo[i] !== arreglo[i+1]{
+    if( arreglo[i] !== arreglo[i+1]){
       return false
     }
   }
@@ -193,7 +193,8 @@ function mesesDelAño(array) {
   // Tu código:
   var nuevoarray = [];
   
-  for (let i=0; <array.length; i++) {
+  for (let i=0; i<array.length; i++ )
+   {
     if (array[i] === "enero" || array === "marzo" || array [i] === "noviembre"){
     nuevoarray.push(array [i]);
   }
@@ -211,7 +212,7 @@ function mayorACien(array) {
   //valores mayores a 100 (no incluye el 100). Finalmente devolver el nuevo array.
   // Tu código:
   var nuevoarray =[];
-  for (let i=0; <array.legth; i++){
+  for (let i=0; i<array.legth; i++){
     if(array[i]>100){
       nuevoarray.push(array[i]);
     }
@@ -232,14 +233,14 @@ function breakStatement(numero) {
 var suma = numero;
  for (var i= 0; i<10; i++){
    suma = suma +2;
-   i (suma === i) break;
+   if (suma === i) break;
    else
    {
      array.push(suma);
    }
  }
  if(i < 10){
-   return 'Se interrumpio la ejecucion';
+   return 'Se interrumpio la ejecucion';}
 else{ 
   return array;
 }
